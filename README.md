@@ -37,14 +37,52 @@ Atualmente, um dos projetos presentes no meu perfil envolve desenvolvimento com 
 
 ## `> Tecnologias`
 
-### Desenvolvimento
+### Front-end
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=dart,flutter" />
+<img src="https://skillicons.dev/icons?i=html,css,js,flutter" />
 
 </p>
 
+Desenvolvimento de interfaces, páginas e aplicações com foco em estrutura, responsividade e experiência de uso.
+
+---
+
+### Back-end
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python,nodejs,sqlite" />
+
+</p>
+
+Desenvolvimento da lógica das aplicações, gerenciamento de dados, APIs e integração entre diferentes partes do sistema.
+
+---
+
+### Desenvolvimento de Software
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=dart,flutter,git,github" />
+
+</p>
+
+Experiência prática através de projetos e estudos em desenvolvimento de software, explorando diferentes tecnologias conforme cada projeto.
+
+---
+
+### Tecnologias utilizadas nos projetos
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white" />
+
+</p>
 ### Tecnologias e bibliotecas utilizadas nos projetos
 
 <p align="left">
