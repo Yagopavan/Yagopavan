@@ -142,8 +142,7 @@ Aplicação desenvolvida utilizando **Flutter/Dart**, com recursos envolvendo:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Yagopavan&theme=transparent&hide_border=true&ring=94a3b8&fire=ffffff&currStreakLabel=ffffff&sideLabels=94a3b8&dates=64748b&currStreakNum=ffffff&sideNums=ffffff" />
-
+<img src="https://raw.githubusercontent.com/Yagopavan/Yagopavan/output/github-contribution-grid-snake.svg" />
 </div>
 
 ---
