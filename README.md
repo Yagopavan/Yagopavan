@@ -124,9 +124,15 @@ Aplicação desenvolvida utilizando **Flutter/Dart**, com recursos envolvendo:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Yagopavan&show_icons=true&hide_border=true&theme=transparent&title_color=ffffff&text_color=94a3b8&icon_color=94a3b8&include_all_commits=true&count_private=true" />
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Yagopavan&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=false"
+  height="170"
+/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yagopavan&layout=compact&hide_border=true&theme=transparent&title_color=ffffff&text_color=94a3b8&langs_count=6" />
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yagopavan&layout=compact&hide_border=true&theme=transparent&langs_count=6"
+  height="170"
+/>
 
 </div>
 
@@ -146,7 +152,10 @@ Aplicação desenvolvida utilizando **Flutter/Dart**, com recursos envolvendo:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yagopavan&bg_color=00000000&color=94a3b8&line=64748b&point=ffffff&area=true&hide_border=true" width="100%"/>
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Yagopavan&bg_color=00000000&color=94a3b8&line=64748b&point=ffffff&area=true&hide_border=true"
+  width="100%"
+/>
 
 </div>
 
@@ -156,7 +165,9 @@ Aplicação desenvolvida utilizando **Flutter/Dart**, com recursos envolvendo:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Yagopavan&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1" />
+<img
+  src="https://github-profile-trophy.vercel.app/?username=Yagopavan&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1"
+/>
 
 </div>
 
@@ -166,7 +177,7 @@ Aplicação desenvolvida utilizando **Flutter/Dart**, com recursos envolvendo:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Yagopavan/Yagopavan/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Yagopavan/Yagopavan/output/github-contribution-grid-snake.svg">
 
 </div>
 
